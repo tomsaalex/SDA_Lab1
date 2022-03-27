@@ -1,0 +1,21 @@
+[2022-03-21 15:21:16] [info] Start Program:
+Path:"D:\\Projects\\University\\Facultate\\Semestrul 2\\Structuri de Date si Algoritmi\\Lab1\\Lab1\\Debug\\Lab1.exe"
+Arguments:
+Working directory: "D:\\Projects\\University\\Facultate\\Semestrul 2\\Structuri de Date si Algoritmi\\Lab1\\Lab1\\Lab1\\"
+Modules: Selected: D:\Projects\University\Facultate\Semestrul 2\Structuri de Date si Algoritmi\Lab1\Lab1\Debug\Lab1.exe Excluded: 
+Sources: Selected: D:\Projects\University\Facultate\Semestrul 2\Structuri de Date si Algoritmi\Lab1\Lab1\Lab1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\tomsa\AppData\Local\Temp\3iml23cj.h0p 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-03-21 15:21:16] [info] Module: D:\Projects\University\Facultate\Semestrul 2\Structuri de Date si Algoritmi\Lab1\Lab1\Debug\Lab1.exe is selected because it matches selected pattern: D:\Projects\University\Facultate\Semestrul 2\Structuri de Date si Algoritmi\Lab1\Lab1\Debug\Lab1.exe
+[2022-03-21 15:21:17] [info] ----------------------------------------------------
+[2022-03-21 15:21:17] [info] Coverage binary generated in file: C:\Users\tomsa\AppData\Local\Temp\3iml23cj.h0p
+[2022-03-21 15:21:17] [info] ----------------------------------------------------
